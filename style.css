@@ -20,7 +20,7 @@ body {
 .container {
     background-color: #fff;
     border-radius: 30px;
-    /* box-shadow: -13px 15px 15px rgba(0, 0, 0, 0.35); */
+    box-shadow: -13px 15px 15px rgba(0, 0, 0, 0.35);
     position: relative;
     overflow: hidden;
     width: 768px;
